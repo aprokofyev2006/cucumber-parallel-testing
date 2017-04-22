@@ -30,22 +30,4 @@ public class StepDefs {
 		//comment
 	}
 
-//	@Then("^User should be able to order one$")
-//	public void User_should_be_able_to_order_one() throws Throwable {
-//	    // Express the Regexp above with the code you wish you had
-//	    throw new PendingException();
-//	}
-//
-//	@Then("^User should be able to registration$")
-//	public void User_should_be_able_to_registration() throws Throwable {
-//	    // Express the Regexp above with the code you wish you had
-//	    throw new PendingException();
-//	}
-//
-//	@Then("^User should be able to search one$")
-//	public void User_should_be_able_to_search_one() throws Throwable {
-//	    // Express the Regexp above with the code you wish you had
-//	    throw new PendingException();
-//	}
-
 }
